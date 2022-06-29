@@ -14,6 +14,8 @@ Weather API utilises _[Open Weather](https://openweathermap.org/)_
 
 _[How to get current weather data](https://openweathermap.org/current)_
 
+_[City API codes](http://bulk.openweathermap.org/sample/)_
+
 _[Weather icons](https://openweathermap.org/weather-conditions)_
 
 ## Styling

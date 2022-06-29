@@ -10,7 +10,12 @@ const KEY = process.env.OPEN_WEATHER;
 import Dropdown from "./Dropdown";
 import WeatherData from "./WeatherData";
 
-import cities from "../data/openWeather/cities.json";
+import locations from "../data/openWeather/cities.json";
+const { cities } = locations;
+import cities2 from "../data/openWeather/cities2.json";
+
+// console.log(cities2.cities[1]);
+// console.log(cities2.cities.filter((city) => city.state === "NSW"));
 
 function App() {
   const [selectedCity, setSelectedCity] = useState(null);

@@ -1,0 +1,284 @@
+{
+  "cities": [
+    {
+      "id": 2147714,
+      "name": "Sydney",
+      "state": "NSW",
+      "country": "AU",
+      "coord": {
+        "lon": 151.207321,
+        "lat": -33.867851
+      }
+    },
+    {
+      "id": 2172517,
+      "name": "Canberra",
+      "state": "ACT",
+      "country": "AU",
+      "coord": {
+        "lon": 149.128067,
+        "lat": -35.283459
+      }
+    },
+    {
+      "id": 2174003,
+      "name": "Brisbane",
+      "state": "QLD",
+      "country": "AU",
+      "coord": {
+        "lon": 153.028091,
+        "lat": -27.467939
+      }
+    },
+    {
+      "id": 3859521,
+      "name": "Darwin",
+      "state": "NT",
+      "country": "AR",
+      "coord": {
+        "lon": -65.76667,
+        "lat": -39.200001
+      }
+    },
+    {
+      "id": 7839644,
+      "name": "Adelaide",
+      "state": "SA",
+      "country": "AU",
+      "coord": {
+        "lon": 138.600586,
+        "lat": -34.920502
+      }
+    },
+    {
+      "id": 2063523,
+      "name": "Perth",
+      "state": "WA",
+      "country": "AU",
+      "coord": {
+        "lon": 115.833328,
+        "lat": -31.933331
+      }
+    },
+    {
+      "id": 2163355,
+      "name": "Hobart",
+      "state": "TAS",
+      "country": "AU",
+      "coord": {
+        "lon": 147.329407,
+        "lat": -42.87936
+      }
+    },
+    {
+      "id": 7839778,
+      "name": "Wagga Wagga",
+      "state": "NSW",
+      "country": "AU",
+      "coord": {
+        "lon": 147.355087,
+        "lat": -35.185871
+      }
+    },
+    {
+      "id": 7839791,
+      "name": "Wollongong",
+      "state": "NSW",
+      "country": "AU",
+      "coord": {
+        "lon": 150.850616,
+        "lat": -34.342369
+      }
+    },
+    {
+      "id": 971421,
+      "name": "Newcastle",
+      "state": "NSW",
+      "country": "ZA",
+      "coord": {
+        "lon": 29.931801,
+        "lat": -27.757959
+      }
+    },
+    {
+      "id": 2146970,
+      "name": "Tharwa",
+      "state": "ACT",
+      "country": "AU",
+      "coord": {
+        "lon": 149.066666,
+        "lat": -35.51667
+      }
+    },
+    {
+      "id": 2165798,
+      "name": "Geelong",
+      "state": "NSW",
+      "country": "AU",
+      "coord": {
+        "lon": 144.360687,
+        "lat": -38.14711
+      }
+    },
+    {
+      "id": 2176187,
+      "name": "Bendigo",
+      "state": "VIC",
+      "country": "AU",
+      "coord": {
+        "lon": 144.283325,
+        "lat": -36.76667
+      }
+    },
+    {
+      "id": 2166144,
+      "name": "Frankston",
+      "state": "VIC",
+      "country": "AU",
+      "coord": {
+        "lon": 145.116669,
+        "lat": -38.133331
+      }
+    },
+    {
+      "id": 7302624,
+      "name": "Phillip Island",
+      "state": "VIC",
+      "country": "AU",
+      "coord": {
+        "lon": 145.231018,
+        "lat": -38.48349
+      }
+    },
+    {
+      "id": 7839389,
+      "name": "Rockhampton",
+      "state": "QLD",
+      "country": "AU",
+      "coord": {
+        "lon": 150.227158,
+        "lat": -22.884439
+      }
+    },
+    {
+      "id": 7839399,
+      "name": "Townsville",
+      "state": "QLD",
+      "country": "AU",
+      "coord": {
+        "lon": 146.632233,
+        "lat": -19.351999
+      }
+    },
+    {
+      "id": 7839581,
+      "name": "Gold Coast",
+      "state": "QLD",
+      "country": "AU",
+      "coord": {
+        "lon": 153.36055,
+        "lat": -27.97851
+      }
+    },
+    {
+      "id": 2173323,
+      "name": "Bundaberg",
+      "state": "QLD",
+      "country": "AU",
+      "coord": {
+        "lon": 152.350006,
+        "lat": -24.85
+      }
+    },
+    {
+      "id": 7839440,
+      "name": "Mount Gambier",
+      "state": "SA",
+      "country": "AU",
+      "coord": {
+        "lon": 140.781906,
+        "lat": -37.824692
+      }
+    },
+    {
+      "id": 7839470,
+      "name": "Whyalla",
+      "state": "SA",
+      "country": "AU",
+      "coord": {
+        "lon": 137.544678,
+        "lat": -33.045689
+      }
+    },
+    {
+      "id": 2059470,
+      "name": "Victor Harbor",
+      "state": "SA",
+      "country": "AU",
+      "coord": {
+        "lon": 138.616669,
+        "lat": -35.566669
+      }
+    },
+    {
+      "id": 2075432,
+      "name": "Bunbury",
+      "state": "WA",
+      "country": "AU",
+      "coord": {
+        "lon": 115.633331,
+        "lat": -33.333328
+      }
+    },
+    {
+      "id": 2070998,
+      "name": "Geraldton",
+      "state": "WA",
+      "country": "AU",
+      "coord": {
+        "lon": 114.599998,
+        "lat": -28.76667
+      }
+    },
+    {
+      "id": 7839657,
+      "name": "Albany",
+      "state": "WA",
+      "country": "AU",
+      "coord": {
+        "lon": 118.123451,
+        "lat": -34.7099
+      }
+    },
+    {
+      "id": 7839681,
+      "name": "Alice Springs",
+      "state": "NT",
+      "country": "AU",
+      "coord": {
+        "lon": 133.833206,
+        "lat": -23.731001
+      }
+    },
+    {
+      "id": 2068655,
+      "name": "Katherine",
+      "state": "NT",
+      "country": "AU",
+      "coord": {
+        "lon": 132.266663,
+        "lat": -14.46667
+      }
+    },
+    {
+      "id": 2175958,
+      "name": "Bicheno",
+      "state": "TAS",
+      "country": "AU",
+      "coord": {
+        "lon": 148.288605,
+        "lat": -41.878891
+      }
+    }
+  ]
+}
