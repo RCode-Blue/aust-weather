@@ -1,6 +1,6 @@
 const webpack = require("webpack");
 
-const Dotenv = require("dotenv-webpack");
+// const Dotenv = require("dotenv-webpack");
 // const FaviconsWebpackPlugin = require("favicons-webpack-plugin");
 const HtmlWebpackPlugin = require("html-webpack-plugin");
 const path = require("path");
@@ -8,6 +8,7 @@ const path = require("path");
 const VENDOR_LIBS = ["react", "react-dom"];
 
 var config = {
+  mode: "production",
   entry: {
     bundle: "./src/index.js",
     vendor: VENDOR_LIBS,
@@ -39,7 +40,7 @@ var config = {
     }),
 
     // new FaviconsWebpackPlugin("./favicon.ico"),
-    new Dotenv(),
+    // new Dotenv(),
   ],
   devServer: {
     port: 3000,

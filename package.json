@@ -1,7 +1,7 @@
 {
-  "name": "world_weather",
+  "name": "aust_weather",
   "version": "0.1.0",
-  "description": "World weather app using React class components",
+  "description": "Australian weather app using React class components",
   "main": "index.js",
   "scripts": {
     "clean": "rimraf dist",
