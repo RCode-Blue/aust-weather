@@ -65,9 +65,14 @@ public
 # Mac files
 .DS_Store
 
+# Vercel
+vercel-prod-env-vars.json
+
 # Yarn
 yarn-error.log
 .pnp/
 .pnp.js
 # Yarn Integrity file
 .yarn-integrity
+
+.vercel
