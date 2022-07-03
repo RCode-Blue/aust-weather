@@ -12,6 +12,7 @@ import getWeather from "../helpers/getWeather";
 import cities from "../data/openWeather/cities.json";
 
 function App() {
+  console.log("env: ", process.env.ENVIRONMENT);
   const [selectedCity, setSelectedCity] = useState(null);
   const [weatherData, setWeatherData] = React.useState(null);
 
