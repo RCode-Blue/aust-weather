@@ -11,9 +11,8 @@ const devConfig = {
 
 const config = (env) => {
   const environment = env.development ? ".development" : null;
-  console.log("-------------------------");
-  console.log("Environment: ", environment);
-  console.log("-------------------------");
+  console.log("-------------------------------------------------");
+  console.log(`Webpack compiling for ${environment} environment`);
   return merge(commonConfig(environment), devConfig);
 };
 

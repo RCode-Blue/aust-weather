@@ -7,6 +7,8 @@ const prodConfig = {
 
 const config = (env) => {
   const environment = env.production ? ".production" : null;
+  console.log("-------------------------------------------------");
+  console.log(`Webpack compiling for ${environment} environment`);
   return merge(commonConfig(environment), prodConfig);
 };
 
