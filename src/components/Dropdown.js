@@ -1,7 +1,7 @@
 import React from "react";
 
 const Dropdown = (data) => {
-  const { cities } = data.cities;
+  const { cities } = data;
   const { selectedCity, setSelectedCity } = data;
 
   const renderCities = cities.map((city) => {

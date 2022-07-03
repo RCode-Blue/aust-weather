@@ -10,7 +10,8 @@ const KEY = process.env.OPEN_WEATHER;
 import Dropdown from "./Dropdown";
 import WeatherData from "./WeatherData";
 
-import cities from "../data/openWeather/cities.json";
+import locations from "../data/openWeather/cities.json";
+const { cities } = locations;
 
 function App() {
   const [selectedCity, setSelectedCity] = useState(null);

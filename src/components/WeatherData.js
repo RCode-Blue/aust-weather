@@ -1,7 +1,7 @@
 import React from "react";
 
 const WeatherData = (data) => {
-  const { name, weather, main, wind, clouds, rain, dt } = data.weatherData;
+  const { name, weather, main, wind } = data.weatherData;
 
   return (
     <div className="py-3">
