@@ -1,13 +1,8 @@
 import React from "react";
 
 const WeatherData = (data) => {
-  const { name, weather, main, wind, clouds, rain, dt } = data.weatherData;
+  const { name, weather, main, wind } = data.weatherData;
 
-  // console.log(!data);
-  // const query = axiosQuery()
-  // if (!data) {
-  //   return <div className=""></div>;
-  // }
   return (
     <div className="py-3">
       <div className="h2">{name}</div>

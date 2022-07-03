@@ -1,14 +1,12 @@
 {
-  "name": "world_weather",
+  "name": "aust_weather",
   "version": "0.1.0",
-  "description": "World weather app using React class components",
+  "description": "Simple Australian weather app using React functional components",
   "main": "index.js",
   "scripts": {
     "clean": "rimraf dist",
-    "build": "webpack",
-    "build:prod": "npm run clean && webpack -p",
-    "build:dev": "NODE_ENV=development npm run clean && webpack -p",
-    "dev": "NODE_ENV=development webpack-dev-server --hot",
+    "build": "npm run cleam && webpack --env production --config webpack.prod.js",
+    "dev": "webpack serve --env development --open --config webpack.dev.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
