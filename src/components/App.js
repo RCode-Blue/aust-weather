@@ -18,7 +18,6 @@ function App() {
   const [weatherData, setWeatherData] = useState(null);
 
   const getWeather = (id) => {
-    console.log("KEY: ", KEY);
     axios
       .get(
         `https://api.openweathermap.org/data/2.5/weather?id=${id}&appId=${KEY}&units=metric`

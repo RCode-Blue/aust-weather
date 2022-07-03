@@ -1,5 +1,5 @@
 # Aust weather
-A basic weather app implemented using React functional components
+A basic weather app implemented using React functional components. It is hosted _[here](https://aust-weather.vercel.app/)_
 
 
 ## Styling
